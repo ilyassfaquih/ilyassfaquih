@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ilyas FAQUIH</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
+
+I am a Software Engineer who believes that great code solves real-world problems. Specializing in Java and Angular, I build end-to-end solutions that streamline processes and enhance user engagement.
+
+Throughout my career, I have leveraged the power of Java for secure, high-performance back-end processing while utilizing Angular’s modularity to create intuitive Single Page Applications (SPAs). I enjoy the challenge of debugging complex systems and the satisfaction of deploying a feature that makes a user's life easier.
+
+I am currently looking for opportunities to apply my full-stack skills to challenging projects that require both analytical thinking and creative UI implementation.
+
+Core Competencies: Full Stack Development, API Integration, Database Management, java/angular
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyassfaquih&label=Profile%20views&color=0e75b6&style=flat" alt="ilyassfaquih" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyassfaquih" alt="ilyassfaquih" /></a> </p>
