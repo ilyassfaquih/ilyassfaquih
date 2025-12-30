@@ -19,7 +19,7 @@ Core Competencies: Full Stack Development, API Integration, Database Management,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/faquih_ilyass" target="blank"><img align="center" src="https://https://seeklogo.com/vector-logo/492396/twitter-x" alt="faquih_ilyass" height="30" width="40" /></a>
+<a href="https://x.com/faquih_ilyass" target="blank"><img align="center" src="https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492396.png" alt="faquih_ilyass" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ilyasfaquih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilyasfaquih/" height="30" width="40" /></a>
 <a href="https://fb.com/faquihfaquih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faquihfaquih" height="30" width="40" /></a>
   <a href="https://discord.com/users/756946380911542292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/756946380911542292" height="30" width="40" /></a>
