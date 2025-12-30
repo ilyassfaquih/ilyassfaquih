@@ -11,7 +11,7 @@ I am currently looking for opportunities to apply my full-stack skills to challe
 Core Competencies: Full Stack Development, API Integration, Database Management, java/angular
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyassfaquih&label=Profile%20views&color=0e75b6&style=flat" alt="ilyassfaquih" /> </p>
 
-<p align="left"> <a href="https://twitter.com/faquih_ilyass" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-follow.png" alt="faquih_ilyass" height="50" width="60" /></a> </p>
+<p align="left"> <a href="https://twitter.com/faquih_ilyass" target="blank"><img src="https://img.shields.io/twitter/follow/faquih_ilyass?logo=twitter&style=for-the-badge" alt="faquih_ilyass"  /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ilyassfaquih.github.io/portfolio/](https://ilyassfaquih.github.io/portfolio/)
 
